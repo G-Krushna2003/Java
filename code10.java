@@ -6,7 +6,7 @@ Output: January
 Input: 2
 Output: February
 Input: 13
-Output: Invalid input for month
+Output: Invalid input for months
  */
 
 
